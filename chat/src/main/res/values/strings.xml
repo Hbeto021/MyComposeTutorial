@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyComposeTutorial</string>
+
+    <!-- Chat -->
+    <string name="author">me</string>
+    <string name="type_your_message_hint">Digite sua mensagem</string>
+    <string name="send">Enviar</string>
+</resources>
